@@ -207,7 +207,7 @@
 <style>
 	.component-selector {
 		position: relative;
-		border-bottom: 1px solid var(--sk-text-4);
+		border-bottom: 1px solid #eee;
 		overflow: hidden;
 	}
 
